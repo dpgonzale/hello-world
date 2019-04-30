@@ -8,3 +8,5 @@ Let's start with GitHub guides:
   https://guides.github.com/
   https://www.youtube.com/githubguides
   https://lab.github.com/
+  
+  GitHub: [Basic writing and formatting syntax] (https://help.github.com/en/articles/basic-writing-and-formatting-syntax#links)
